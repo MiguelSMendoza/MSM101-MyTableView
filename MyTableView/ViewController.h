@@ -12,8 +12,5 @@
     NSArray *data;
 }
 
-@property (weak, nonatomic) IBOutlet UITableView *myTable;
-@property (weak, nonatomic) IBOutlet UILabel *labelView;
-
 @end
 
